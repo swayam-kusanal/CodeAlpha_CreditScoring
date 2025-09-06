@@ -18,6 +18,6 @@ Models implemented:
 - Key features: Credit amount, Duration, Age
 
 ## 📂 Files in this Repository
-- `Credit_Scoring.py` → Jupyter notebook with full implementation
+- `credit_scoring.py` → Jupyter notebook with full implementation
 - `Credit_Scoring_Report.pdf` → Final internship report
 - `Credit_Scoring_Presentation.pptx` → Project explanation slides
